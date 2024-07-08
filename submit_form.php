@@ -5,7 +5,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $subject = htmlspecialchars($_POST['Subject']);
     $message = htmlspecialchars($_POST['Message']);
 
-    $to = "AhmedHassan@elvwebhub.com"; // Replace with your email address
+    $to = "AhmedHassan@elvwebhub.com"; 
     $email_subject = "New Contact Form Submission: " . $subject;
     $email_body = "You have received a new message from the contact form on your website.\n\n";
     $email_body .= "Here are the details:\n";
@@ -22,5 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     } else {
         echo "Error: Unable to send message.";
     }
+} else {
+    echo "Invalid request.";
 }
 ?>

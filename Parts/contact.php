@@ -59,6 +59,7 @@
                     <div class="form-group">
                         <button type="submit" class="btn btn-primary py-3 px-5">Send Message</button>
                     </div>
+					<div id="form-message" class="mt-3"></div>
                 </form>
 
 				</div>

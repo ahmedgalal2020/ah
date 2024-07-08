@@ -56,7 +56,7 @@
 						<h2 class="ftco-heading-2">Have a Questions?</h2>
 						<div class="block-23 mb-3">
 							<ul>
-								<li><span class="icon icon-map-marker"></span><span class="text">,55425 Waldalgesheim, Germany</span></li>
+								<li><span class="icon icon-map-marker"></span><span class="text">55425 Waldalgesheim, Germany</span></li>
 								<li><a href="tel://004917648727152"><span class="icon icon-phone"></span><span
 											class="text">(+49) 17648727152</span></a></li>
 								<li><a href="mailto:AhmedHassan@elvwebhub.com"><span

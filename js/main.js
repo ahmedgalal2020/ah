@@ -308,6 +308,17 @@ AOS.init({
   $('.filter-button:first').removeClass('btn-default').addClass('btn-primary');
 });
 
+
+});
+
+
+$(document).ready(function() {
+  $('.popup-link').magnificPopup({
+      type: 'image',
+      gallery:{
+          enabled: true
+      }
+  });
 });
 /*----------------------------------------------------*/
     /*  skills scrolling js
@@ -418,4 +429,21 @@ AOS.init({
 
 
 
-  
+   // to Handle AJAX Submission
+  $(document).ready(function(){
+    $("#contactForm").on("submit", function(event){
+        event.preventDefault(); // Prevent the default form submission
+
+        $.ajax({
+            url: "submit_form.php",
+            type: "POST",
+            data: $(this).serialize(),
+            success: function(response){
+                $("#form-message").html(response); // Display the response message
+            },
+            error: function(xhr, status, error){
+                $("#form-message").html("An error occurred: " + xhr.responseText);
+            }
+        });
+    });
+});
