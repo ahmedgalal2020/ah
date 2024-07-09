@@ -29,8 +29,7 @@
                         ["src" => "./images/photo6.JPG", "title" => "Ahmed Hassan", "description" => "Training courses"],
                         ["src" => "./images/photo7.JPG", "title" => "Ahmed Hassan", "description" => "Training courses"],
                         ["src" => "./images/photo8.JPG", "title" => "Ahmed Hassan", "description" => "Training courses"],
-                        ["src" => "./images/photo9.JPG", "title" => "Ahmed Hassan", "description" => "Training courses"],
-                        ["src" => "./images/photo5.JPG", "title" => "Ahmed Hassan", "description" => "Training courses"]
+                        ["src" => "./images/photo9.JPG", "title" => "Ahmed Hassan", "description" => "Training courses"]
                     ],
                     "infographic" => [
                         ["src" => "./images/info1.jpg", "title" => "Infographic"],
