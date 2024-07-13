@@ -26,8 +26,8 @@
                         ["src" => "./images/photo3.webp", "title" => "Ahmed Hassan", "description" => "General recognition"],
                         ["src" => "./images/photo4.webp", "title" => "Ahmed Hassan", "description" => "Continuous work"],
                         ["src" => "./images/photo5.webp", "title" => "Ahmed Hassan", "description" => "Training courses"],
-                        ["src" => "./images/photo6.jpg", "title" => "Ahmed Hassan", "description" => "Training courses"],
-                        ["src" => "./images/photo7.webp", "title" => "Ahmed Hassan", "description" => "Training courses"],
+                        ["src" => "./images/photo6.webp", "title" => "Ahmed Hassan", "description" => "Training courses"],
+                        ["src" => "./images/photo7.jpg", "title" => "Ahmed Hassan", "description" => "Training courses"],
                         ["src" => "./images/photo8.jpg", "title" => "Ahmed Hassan", "description" => "Training courses"],
                         ["src" => "./images/photo9.webp", "title" => "Ahmed Hassan", "description" => "Training courses"]
                     ],
