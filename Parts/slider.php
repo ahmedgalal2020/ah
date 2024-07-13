@@ -7,7 +7,7 @@
 					<div class="row d-md-flex no-gutters slider-text align-items-end justify-content-end"
 						data-scrollax-parent="true">
 						<div class="one-third js-fullheight order-md-last img"
-							style="background-image:url(images/bg_1.png);">
+							style="background-image:url(images/bg_1.webp);">
 							<div class="overlay"></div>
 						</div>
 						<div class="one-forth d-flex  align-items-center ftco-animate"
@@ -33,7 +33,7 @@
 					<div class="row d-flex no-gutters slider-text align-items-end justify-content-end"
 						data-scrollax-parent="true">
 						<div class="one-third js-fullheight order-md-last img"
-							style="background-image:url(images/bg_2.png);">
+							style="background-image:url(images/bg_2.webp);">
 							<div class="overlay"></div>
 						</div>
 						<div class="one-forth d-flex align-items-center ftco-animate"

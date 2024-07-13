@@ -21,57 +21,57 @@
                 <?php
                 $projects = [
                     "photo" => [
-                        ["src" => "./images/photo1.JPG", "title" => "Ahmed Hassan", "description" => "Training courses"],
-                        ["src" => "./images/photo2.JPG", "title" => "Ahmed Hassan", "description" => "Scientific recognition"],
-                        ["src" => "./images/photo3.jpg", "title" => "Ahmed Hassan", "description" => "General recognition"],
-                        ["src" => "./images/photo4.jpg", "title" => "Ahmed Hassan", "description" => "Continuous work"],
-                        ["src" => "./images/photo5.JPG", "title" => "Ahmed Hassan", "description" => "Training courses"],
-                        ["src" => "./images/photo6.JPG", "title" => "Ahmed Hassan", "description" => "Training courses"],
-                        ["src" => "./images/photo7.JPG", "title" => "Ahmed Hassan", "description" => "Training courses"],
-                        ["src" => "./images/photo8.JPG", "title" => "Ahmed Hassan", "description" => "Training courses"],
-                        ["src" => "./images/photo9.JPG", "title" => "Ahmed Hassan", "description" => "Training courses"]
+                        ["src" => "./images/photo1.webp", "title" => "Ahmed Hassan", "description" => "Training courses"],
+                        ["src" => "./images/photo2.webp", "title" => "Ahmed Hassan", "description" => "Scientific recognition"],
+                        ["src" => "./images/photo3.webp", "title" => "Ahmed Hassan", "description" => "General recognition"],
+                        ["src" => "./images/photo4.webp", "title" => "Ahmed Hassan", "description" => "Continuous work"],
+                        ["src" => "./images/photo5.webp", "title" => "Ahmed Hassan", "description" => "Training courses"],
+                        ["src" => "./images/photo6.webp", "title" => "Ahmed Hassan", "description" => "Training courses"],
+                        ["src" => "./images/photo7.webp", "title" => "Ahmed Hassan", "description" => "Training courses"],
+                        ["src" => "./images/photo8.webp", "title" => "Ahmed Hassan", "description" => "Training courses"],
+                        ["src" => "./images/photo9.webp", "title" => "Ahmed Hassan", "description" => "Training courses"]
                     ],
                     "infographic" => [
-                        ["src" => "./images/info1.jpg", "title" => "Infographic"],
-                        ["src" => "./images/info2.jpg", "title" => "Infographic"],
-                        ["src" => "./images/info3.jpg", "title" => "Infographic"],
-                        ["src" => "./images/info4.jpg", "title" => "Infographic"],
-                        ["src" => "./images/info5.jpg", "title" => "Infographic"],
-                        ["src" => "./images/info6.jpg", "title" => "Infographic"],
-                        ["src" => "./images/info7.jpg", "title" => "Infographic"],
-                        ["src" => "./images/info8.jpg", "title" => "Infographic"],
-                        ["src" => "./images/info9.jpg", "title" => "Infographic"],
-                        ["src" => "./images/info10.jpg", "title" => "Infographic"],
-                        ["src" => "./images/info11.jpg", "title" => "Infographic"],
-                        ["src" => "./images/info12.JPG", "title" => "Infographic"]
+                        ["src" => "./images/info1.webp", "title" => "Infographic"],
+                        ["src" => "./images/info2.webp", "title" => "Infographic"],
+                        ["src" => "./images/info3.webp", "title" => "Infographic"],
+                        ["src" => "./images/info4.webp", "title" => "Infographic"],
+                        ["src" => "./images/info5.webp", "title" => "Infographic"],
+                        ["src" => "./images/info6.webp", "title" => "Infographic"],
+                        ["src" => "./images/info7.webp", "title" => "Infographic"],
+                        ["src" => "./images/info8.webp", "title" => "Infographic"],
+                        ["src" => "./images/info9.webp", "title" => "Infographic"],
+                        ["src" => "./images/info10.webp", "title" => "Infographic"],
+                        ["src" => "./images/info11.webp", "title" => "Infographic"],
+                        ["src" => "./images/info12.webp", "title" => "Infographic"]
                     ],
                     "webdesign" => [
-                        ["src" => "./images/web1t.png", "title" => "Larado web", "link" => "https://14801.de/"],
-                        ["src" => "./images/web2t.png", "title" => "Apple Web Iphone 15", "link" => "https://elvwebhub.com/iphone/"],
-                        ["src" => "./images/web3t.png", "title" => "Argon Online-Shop", "link" => "https://shop.argon-dental.de/"],
-                        ["src" => "./images/web4t.png", "title" => "TailwindED web", "link" => "https://elvwebhub.com/TailwindED/?#"]
+                        ["src" => "./images/web1t.webp", "title" => "Larado web", "link" => "https://14801.de/"],
+                        ["src" => "./images/web2t.webp", "title" => "Apple Web Iphone 15", "link" => "https://elvwebhub.com/iphone/"],
+                        ["src" => "./images/web3t.webp", "title" => "Argon Online-Shop", "link" => "https://shop.argon-dental.de/"],
+                        ["src" => "./images/web4t.webp", "title" => "TailwindED web", "link" => "https://elvwebhub.com/TailwindED/?#"]
                     ],
                     "advertising" => [
-                        ["src" => "./images/ad1.jpg", "title" => "Advertising"],
-                        ["src" => "./images/ad2.jpg", "title" => "Advertising"],
-                        ["src" => "./images/ad3.jpg", "title" => "Advertising"],
-                        ["src" => "./images/ad4.jpg", "title" => "Advertising"],
-                        ["src" => "./images/ad5.jpg", "title" => "Advertising"],
-                        ["src" => "./images/ad6.JPG", "title" => "Advertising"]
+                        ["src" => "./images/ad1.webp", "title" => "Advertising"],
+                        ["src" => "./images/ad2.webp", "title" => "Advertising"],
+                        ["src" => "./images/ad3.webp", "title" => "Advertising"],
+                        ["src" => "./images/ad4.webp", "title" => "Advertising"],
+                        ["src" => "./images/ad5.webp", "title" => "Advertising"],
+                        ["src" => "./images/ad6.webp", "title" => "Advertising"]
                     ],
                     "Logos" => [
-                        ["src" => "./images/logo1.png", "title" => "Lovely Animals Logo"],
-                        ["src" => "./images/logo2.JPG", "title" => "Ahmed Galal Logo"],
-                        ["src" => "./images/logo3.JPG", "title" => "Space Logo"],
-                        ["src" => "./images/logo4.jpg", "title" => "CE Line Logo"],
-                        ["src" => "./images/logo5.JPG", "title" => "Motivation Center Education Of Tabuk Logo"],
-                        ["src" => "./images/logo6.jpg", "title" => "FM Logo"],
-                        ["src" => "./images/logo7.JPG", "title" => "Space Logo"],
-                        ["src" => "./images/logo8.jpg", "title" => "CE Line Logo"],
-                        ["src" => "./images/logo9.jpg", "title" => "Ahmed Galal Logo"],
-                        ["src" => "./images/logo10.jpg", "title" => "Ahmed Galal Logo"],
-                        ["src" => "./images/logo11.jpg", "title" => "Ahmed Galal Logo"],
-                        ["src" => "./images/logo12.png", "title" => "Lovely Animals Logo"]
+                        ["src" => "./images/logo1.webp", "title" => "Lovely Animals Logo"],
+                        ["src" => "./images/logo2.webp", "title" => "Ahmed Galal Logo"],
+                        ["src" => "./images/logo3.webp", "title" => "Space Logo"],
+                        ["src" => "./images/logo4.webp", "title" => "CE Line Logo"],
+                        ["src" => "./images/logo5.webp", "title" => "Motivation Center Education Of Tabuk Logo"],
+                        ["src" => "./images/logo6.webp", "title" => "FM Logo"],
+                        ["src" => "./images/logo7.webp", "title" => "Space Logo"],
+                        ["src" => "./images/logo8.webp", "title" => "CE Line Logo"],
+                        ["src" => "./images/logo9.webp", "title" => "Ahmed Galal Logo"],
+                        ["src" => "./images/logo10.webp", "title" => "Ahmed Galal Logo"],
+                        ["src" => "./images/logo11.webp", "title" => "Ahmed Galal Logo"],
+                        ["src" => "./images/logo12.webp", "title" => "Lovely Animals Logo"]
                     ]
                 ];
                 ?>
